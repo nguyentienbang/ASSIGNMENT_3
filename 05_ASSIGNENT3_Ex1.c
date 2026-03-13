@@ -5,7 +5,7 @@
  *    Chương trình chuyển đổi chữ hoa sang chữ thường hoặc ngược lại
  *    tùy theo tên chương trình khi chạy.
  *
- * Author: ChatGPT
+ * Author: Student
  * Date: 2026
  ******************************************************************************/
 
