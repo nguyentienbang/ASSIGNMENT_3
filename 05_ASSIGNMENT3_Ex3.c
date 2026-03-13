@@ -5,7 +5,7 @@
  *    Chương trình in nhiều file. Mỗi file bắt đầu ở trang mới,
  *    có tiêu đề và số trang.
  *
- * Author: ChatGPT
+ * Author: Student
  * Date: 2026
  ******************************************************************************/
 
@@ -93,4 +93,5 @@ int main(int argc, char *argv[])
     }
 
     return 0;
+
 }
