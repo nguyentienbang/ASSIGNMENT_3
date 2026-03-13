@@ -5,7 +5,7 @@
  *    Chương trình so sánh hai file văn bản và in ra dòng đầu tiên
  *    mà chúng khác nhau.
  *
- * Author: ChatGPT
+ * Author: Student
  * Date: 2026
  ******************************************************************************/
 
@@ -85,4 +85,5 @@ int main(int argc, char *argv[])
     fclose(fp2);
 
     return 0;
+
 }
